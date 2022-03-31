@@ -108,6 +108,11 @@
   margin-left: 0.5rem;
 }
 
+.n-nav-actions {
+  display: flex;
+  align-items: center;
+}
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;
